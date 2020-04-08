@@ -272,7 +272,8 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Samsung|✅|Decision by mid April. They’re working with teams to get remote internship as a viable option.|
 |Santander CIB|✅||
 |SAP|✅||
-|SC Johnson|✅||
+|SC Johnson|✅||\
+|ServiceNow|✅|Remote internships
 |Shiseido|✅|Hiring put on hold.|
 |Shopify|✅|Internships will be remote until further notice|
 |Sigma Computing|✅|Remote work|
